@@ -57,3 +57,4 @@ var year5 = year4 + (year4 * protsenti)
 print("Задание_3:\nПервоначальный вклад \(vklad) под \(protsent) процентов.\nСумма вклада через 5 лет: \(year5)")
 
 //новая ветка  123
+//fwefwefw
